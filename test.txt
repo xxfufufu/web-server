@@ -1,0 +1,4 @@
+POST http://localhost:8000/form
+Content-Type: application/x-www-form-urlencoded
+
+name=helo&address=lallala
